@@ -97,7 +97,7 @@ exports.postRegister=(req,res,next)=>{
             html:`
 
             <p class="esd-block-image" align="center" style="font-size:0"><a href="https://www.smavacadmey.com" target="_blank"><img
-            src="https://i.imgur.com/WuxuLUZ.png" alt style="display: block;" width="562"></a></p>
+            src="https://i.imgur.com/9dX2h6q.png" alt style="display: block;" width="562"></a></p>
 
 
 

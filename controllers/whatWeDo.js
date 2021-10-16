@@ -56,3 +56,15 @@ exports.getMATCH=(req,res,next)=>{
   });
   }
   
+
+
+  exports.getOpen=(req,res,next)=>{
+
+
+    res.render('opening_soon');
+    }
+
+
+
+
+
